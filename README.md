@@ -47,4 +47,16 @@
 
 
 ### sklearn module install in Python virtul enviroment
-* pip install sklearn
+* pip install scikit-learn
+
+
+
+
+
+# NOTES
+
+
+
+### Tensor :
+    Tensor is an algebric object that describes a multilinear relationship between sets of algebric objects to a vector space. its is neither scalor nor vector.
+    eg : 1dimenstion tensor, 2dimenstion tensor, 3dimenstion tensor, 4dimenstion tensor etc..
