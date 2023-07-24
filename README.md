@@ -49,7 +49,9 @@
 ### sklearn module install in Python virtul enviroment
 * pip install scikit-learn
 
-
+### Tensoflow module install in python Virtual enviroment
+* pip install tensorflow
+* pip show tensorflow
 
 
 
